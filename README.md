@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hashim6789.github.io/My-portfolio/](https://hashim6789.github.io/My-portfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@muhammedhashim6789](https://medium.com/@muhammedhashim6789)
+<!-- - 📝 I regularly write articles on [https://medium.com/@muhammedhashim6789](https://medium.com/@muhammedhashim6789) -->
 
 - 📫 How to reach me **muhammedhashim6789@gmail.com**
 
